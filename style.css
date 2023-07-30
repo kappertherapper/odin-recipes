@@ -1,0 +1,23 @@
+#overskift {
+    color: mediumspringgreen;
+    background-color: brown;
+    text-align: center;
+}
+
+.link,
+.brød {
+    text-align: center;
+    font-size: 35px;
+}
+
+.billede {  
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 25%;       
+}   
+
+#underOverskift {
+    color: mediumspringgreen;
+    text-align: center;
+}

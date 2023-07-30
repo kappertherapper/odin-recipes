@@ -1,0 +1,52 @@
+#overskift {
+    color: cornflowerblue;
+    background-color: darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.billede {  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;       
+}   
+
+/* underoverskift = h4 (kunne ikke fange class eller id) :( */
+
+h4 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cornflowerblue;
+    font-size: 25px;
+}
+
+.basics {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.brød, .info {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div.container {
+    text-align: center;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+
