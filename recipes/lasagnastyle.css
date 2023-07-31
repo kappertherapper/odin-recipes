@@ -1,0 +1,50 @@
+body {
+    background-color: lightblue;
+}
+
+.overskift {
+    text-align: center;
+    background: lightblue;
+    border: 20px solid lightblue;
+    color: purple;
+    
+}
+
+.container {
+    background: lightblue;
+    border: 20px solid lightblue;
+    text-align: left;
+    display: flex;
+    padding: 50px;
+}
+
+.container p {
+    padding-right: 500px;
+    border-width: 505px;
+    border: 50px solid lightblue;
+    font-size: 25px;
+    color: purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+ }
+
+ .container2 {
+    background: lightyellow;
+    border: 20px solid lightblue;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ .brød {
+    text-align: center;
+    background-color: lightyellow;
+    border: 20px solid lightblue;
+    padding: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+ }
+
+ .kød, .smør, .lasagneplader, .sauce, .mornay, .bagetid {
+    display: inline-block;
+    text-align: left;
+  }
